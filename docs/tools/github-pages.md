@@ -30,5 +30,5 @@ After that, just `git push` your markdown changes and wait a few seconds for you
 
 ### GH Pages examples
 
-- [This Review](https://walquis.github.io/authoring-tools/){:target="_blank"}, and [Markdown source](https://github.com/walquis/authoring-tools/){:target="_blank"}
+- [This Review](https://walquis.github.io/authoring-tools-research/){:target="_blank"}, and [Markdown source](https://github.com/walquis/authoring-tools/){:target="_blank"}
 

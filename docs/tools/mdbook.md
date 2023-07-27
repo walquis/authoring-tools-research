@@ -28,6 +28,7 @@ Basically, publish can be just Github Pages; GH Pages understands mdbook's outpu
 1. View it at https://<org>.github.io/<repo>
 
 ### MDBook examples
-- [MDBook Documentation](https://rust-lang.github.io/mdBook/){:target="_blank"} - and [Markdown source](https://github.com/rust-lang/mdBook/tree/master/guide){:target="_blank"} 
+- [Chris's Git Basics Course](https:/walquis.github.io/git-basics-team-project) - and [Markdown source](https://github.com/walquis/git-basics-team-project/tree/main/thebook){:target="_blank"}
 - [Chris's React Study Notes](https://walquis.github.io/react-study-book/){:target="_blank"} - and [Markdown source](https://github.com/walquis/react-study-book/){:target="_blank"}
+- [MDBook Documentation](https://rust-lang.github.io/mdBook/){:target="_blank"} - and [Markdown source](https://github.com/rust-lang/mdBook/tree/master/guide){:target="_blank"}
 
